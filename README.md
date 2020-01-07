@@ -18,7 +18,7 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 
 ## About Me
 
-<img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="150px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
+<img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="175px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
 
 &nbsp; I'm **Krinza Momin**\
 &nbsp; DSC Lead @ Google Developers\
@@ -26,5 +26,5 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 &nbsp; I'm an Aspiring Data Scientist and Google Assistant Developer\
 &nbsp; **Social, I'm Too, Find Me at :** \
 &nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/DYPBvGd/Twitter-Logo-Blue.png" height="50px" width="50px" border="0" alt="Twitter Icon"/></a> 
-&nbsp; <a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="50px" width="50px" border="0" alt="Linkedin Icon"/></a>
-&nbsp; <a href="https://www.facebook.com/prasla.krinza"><img src="https://i.ibb.co/WH6SpxP/f-logo-RGB-Blue-100.png" height="50px" width="50px" border="0" alt="Facebook Icon"/></a>
+&nbsp; <a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="30px" width="30px" border="0" alt="Linkedin Icon"/></a>
+&nbsp; <a href="https://www.facebook.com/prasla.krinza"><img src="https://i.ibb.co/WH6SpxP/f-logo-RGB-Blue-100.png" height="30px" width="30px" border="0" alt="Facebook Icon"/></a>
