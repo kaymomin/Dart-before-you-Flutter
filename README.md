@@ -1,10 +1,9 @@
-# Welcome to Dart Before Flutter
-
+# 👋 Welcome to Dart Before Flutter 
 
 Now a Days, **Flutter** is becoming a Trend among Android, Web & IOS Developers and a lot of People are trying to learn and to shift their development stack on Flutter but, Don't have much idea on __How to do so ?__ . 
 
 
-## This is Where Dart Comes In
+##  This is Where Dart Comes In
 
 Wanna Get Started on Flutter, **Dart** is the most Essential element to Get ready to Fly with Flutter.  Flutter uses Dart this much that it is hard to imagine Flutter being as powerful as it is without Dart.
 
@@ -22,9 +21,9 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 
 &nbsp; I'm **Krinza Momin 👩‍💻**\
 &nbsp; DSC Lead @ Google Developers \
-&nbsp; Studying BSCS at FAST-NUCES 2020\
+&nbsp; Studying BSCS at FAST-NUCES for 2020\
 &nbsp; I'm an Aspiring Data Scientist and Google Assistant Developer\
 &nbsp; **Social?, I'm Too, Find Me at :** \
-&nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/3zGKZZh/Twitter-Logo-Blue-2.png" height="40px" width="40px" border="0" alt="Twitter Icon"/></a> 
-<a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="40px" width="40px" border="0" alt="Linkedin Icon"/></a>
+&nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/3zGKZZh/Twitter-Logo-Blue-2.png" height="40px" width="40px" border="0" alt="Twitter Icon"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="40px" width="40px" border="0" alt="Linkedin Icon"/></a>&nbsp;
 <a href="https://www.facebook.com/prasla.krinza"><img src="https://i.ibb.co/WH6SpxP/f-logo-RGB-Blue-100.png" height="40px" width="40px" border="0" alt="Facebook Icon"/></a>
