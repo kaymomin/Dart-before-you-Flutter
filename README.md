@@ -16,7 +16,7 @@ I am learning Flutter too, as Dart being it's Essential Component. I am making a
 
 Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71b40e499880)
 
-## About Me
+## Who Am I?
 
 <img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="160px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
 
