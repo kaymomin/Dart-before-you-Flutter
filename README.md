@@ -27,8 +27,5 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 &nbsp; **Social, I'm Too, Find Me at :**\
 
 &nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/DYPBvGd/Twitter-Logo-Blue.png" height="50px" width="50px" border="0" alt="Twitter Icon"/></a> 
-
-&nbsp; <a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/2q6TvPd/
-LI-In-Bug.png" height="50px" width="50px" border="0" alt="Linkedin Icon"/></a>
-
+&nbsp; <a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="50px" width="50px" border="0" alt="Linkedin Icon"/></a>
 &nbsp; <a href="https://www.facebook.com/prasla.krinza"><img src="https://i.ibb.co/WH6SpxP/f-logo-RGB-Blue-100.png" height="50px" width="50px" border="0" alt="Facebook Icon"/></a>
