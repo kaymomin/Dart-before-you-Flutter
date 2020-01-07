@@ -20,9 +20,9 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 <img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="160px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
 
 &nbsp; I'm **Krinza Momin 👩‍💻**\
-&nbsp; DSC Lead @ Google Developers \
-&nbsp; Studying BSCS at FAST-NUCES for 2020\
-&nbsp; I'm an Aspiring Data Scientist and Google Assistant Developer\
+&nbsp; **DSC Lead** @ Google Developers \
+&nbsp; Studying **BSCS** at FAST-NUCES for 2020\
+&nbsp; I'm an **Aspiring Data Scientist** and **Google Assistant Developer**\
 &nbsp; **Social?, I'm Too, Find Me at :** \
 &nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/3zGKZZh/Twitter-Logo-Blue-2.png" height="40px" width="40px" border="0" alt="Twitter Icon"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="40px" width="40px" border="0" alt="Linkedin Icon"/></a>&nbsp;
