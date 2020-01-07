@@ -18,7 +18,7 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 
 ## About Me
 
-<img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="175px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
+<img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="160px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
 
 &nbsp; I'm **Krinza Momin**\
 &nbsp; DSC Lead @ Google Developers\
