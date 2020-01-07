@@ -22,8 +22,8 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 
 &nbsp; I'm **Krinza Momin**\
 &nbsp; DSC Lead @ Google Developers\
-&nbsp; I'm an Aspiring Data Scientist and Google Assistant Developer\
 &nbsp; Studying BSCS at FAST-NUCES 2020\
-&nbsp; &nbsp; <a href="https://twitter.com/Krinzahere"><img src=http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png height="50px" width="50px" alt="Twitter Icon"/></a> 
+&nbsp; I'm an Aspiring Data Scientist and Google Assistant Developer\
+&nbsp; <a href="https://twitter.com/Krinzahere"><img src=http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png height="30px" width="30px" alt="Twitter Icon"/></a> 
 
 
