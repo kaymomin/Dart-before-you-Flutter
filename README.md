@@ -1,15 +1,12 @@
 # 👋 Welcome to Dart Before Flutter 
 
-Now a Days, **Flutter** is becoming a Trend among Android, Web & IOS Developers and a lot of People are trying to learn and to shift their development stack on Flutter but, Don't have much idea on __How to do so ?__ . 
+Now a days, **Flutter** is becoming a trend among Android, Web & IOS developers and a lot of People are trying to learn and shift their development stack on Flutter but, the question is __How to do so ?__ . 
 
 
-##  This is Where Dart Comes In
+##  This is Where This Guide Comes In
 
-Wanna Get Started on Flutter, **Dart** is the most Essential element to Get ready to Fly with Flutter.  Flutter uses Dart this much that it is hard to imagine Flutter being as powerful as it is without Dart.
-
-## I'm Learning It Too. Let's Learn to Fly Together  🎉
-
-I am learning Flutter too, as Dart being it's Essential Component. I am making an Effort to learn it too and to share my learning's in form of Articles for you people to learn and expand your knowledge in the field. 
+Wanna get started on Flutter, then this just-enough-**Dart** is everything to get you started with Flutter.
+Since I'm on my journey to learn Flutter, this is an effort to share my knowledge through [Medium Blogs](https://medium.com/@kaymomin/) for y'all to learn and get started too. 
 
 ## Article Series
 
@@ -19,11 +16,11 @@ Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71
 
 <img src="https://i.ibb.co/pnCzKKb/krinza-profile.jpg" height="160px" width="150px" align="left" alt="Krinza Momin Profile Picture" /> 
 
-&nbsp; I'm **Krinza Momin 👩‍💻**\
-&nbsp; **DSC Lead** @ Google Developers \
-&nbsp; Studying **BSCS** at FAST-NUCES for 2020\
+&nbsp; I'm Krinza Momin 👩‍💻\
+&nbsp; DSC Lead @Google Developers\
+&nbsp; Studying BSCS at FAST-NUCES for 2020\
 &nbsp; I'm an **Aspiring Data Scientist** and **Google Assistant Developer**\
-&nbsp; **Social?, I'm Too, Find Me at :** \
-&nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/3zGKZZh/Twitter-Logo-Blue-2.png" height="40px" width="40px" border="0" alt="Twitter Icon"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="40px" width="40px" border="0" alt="Linkedin Icon"/></a>&nbsp;
-<a href="https://www.facebook.com/prasla.krinza"><img src="https://i.ibb.co/WH6SpxP/f-logo-RGB-Blue-100.png" height="40px" width="40px" border="0" alt="Facebook Icon"/></a>
+&nbsp; **Social?, I'm Too, Find Me at:** \
+&nbsp; <a href="https://twitter.com/Krinzahere"><img src="https://i.ibb.co/3zGKZZh/Twitter-Logo-Blue-2.png" height="20px" width="20px" border="0" alt="Twitter Icon"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/krinza-momin/"><img src="https://i.ibb.co/Bckh2qk/linkedinicon.png" height="20px" width="20px" border="0" alt="Linkedin Icon"/></a>&nbsp;
+<a href="https://www.facebook.com/prasla.krinza"><img src="https://i.ibb.co/WH6SpxP/f-logo-RGB-Blue-100.png" height="20px" width="20px" border="0" alt="Facebook Icon"/></a>
