@@ -10,7 +10,7 @@ Since I'm on my journey to learn Flutter, this is an effort to share my knowledg
 
 ## Article Series
 
-Part 1 : [Medium](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71b40e499880)
+Part 1 : [Dart Before You Flutter - Part 1](https://medium.com/@kaymomin/dart-before-you-flutter-part-1-71b40e499880)
 
 ## Who Am I?
 
